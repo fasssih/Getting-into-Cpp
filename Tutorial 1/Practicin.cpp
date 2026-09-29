@@ -37,7 +37,6 @@ int main()
     cout<<name<<" Got "<<per<<"% in his matriculation";
 */
     //Commits on Aug 13, 2026
-
     double x = 3.4;
     double y = 5.3;
     double z,n;
@@ -58,8 +57,5 @@ int main()
     double c =sqrt(a*a + b*b);
     cout<<"Here is the third side: "<<c;
 
-
-
-    // Fasih gift center change contacts shorte 
     
 }  

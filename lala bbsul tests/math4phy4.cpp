@@ -115,7 +115,7 @@ int main()
     int size2 = 4;
     for(int i = 0; i<size; i++){
         cout<<"*************************";
-        cout<<'\n'<<questions[i];
+        cout<<'\n'<<i+1<<") "<<questions[i];
         cout<<"\n*************************";
 
         for(int j = 0; j<size2; j++){
