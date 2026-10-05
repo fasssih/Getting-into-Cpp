@@ -54,8 +54,8 @@ int main(){
     cout<<toyota<<endl;
     cout<<beemer<<endl;
     cout<<marcos<<endl;
-    cout<<(toyota == 0);
+    cout<<(toyota == 0)<<endl;
 
-
+    
 
 }
